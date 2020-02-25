@@ -3,5 +3,6 @@
 }
 
 .form__wrap_block {
+  display: block;
   margin-top: 10px;
 }
